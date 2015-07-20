@@ -1,5 +1,7 @@
 # RT-Thread 内核实现
 
+注意：请将文章提交到 develop 分支，待稳定后会合并到 master 分支。
+
 本书采用 Markdown，GitHub，Gitbook 来写作，[GitHub 地址](https://github.com/hduffddybz/RT_Kernel), [在线阅读地址](https://www.gitbook.com/book/hduffddybz/rt_kernel/details)。
 
 [RT-Thread 代码仓库](https://github.com/RT-Thread/rt-thread),[RT-Thread 最新文档](https://github.com/RT-Thread/rtthread-manual-doc)。
